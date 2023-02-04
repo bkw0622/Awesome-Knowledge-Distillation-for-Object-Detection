@@ -2,7 +2,7 @@
 
 ### [(CVPR2017) Mimicking very efficient network for object detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100259)
 
-<img src="https://user-images.githubusercontent.com/66883050/216758223-a1767b16-e3b4-42ab-ae23-d5ed9800dd96.png"  width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/66883050/216758223-a1767b16-e3b4-42ab-ae23-d5ed9800dd96.png"  width="200" height="400"/>
 
 ### [(CVPR2019) Distilling object detectors with fine-grained feature imitation](https://arxiv.org/abs/1906.03609)
 
