@@ -30,11 +30,8 @@
 
 ### [(AAAI2022) Rank Mimicking and Prediction-guided Feature Imitation](https://ojs.aaai.org/index.php/AAAI/article/download/20018/version/18315/19777)
 
-<figure>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/66883050/216758291-974c72ff-184f-455e-bfb4-7ac5038b1782.png"  width="30%" height="30%"/></td><td><img src="https://user-images.githubusercontent.com/66883050/216758296-a4f160bc-3cda-45c3-afbc-ac7a75666ada.png"  width="60%" height="60%"/></td>
-  <tr>
-</figure>
+<img src="https://user-images.githubusercontent.com/66883050/216808295-704563c1-33cc-45c0-95ac-4fe7c1b0050d.png"  width="50%" height="50%"/>
+
 ### [(ECCV2022) Prediction-Guided Distillation](https://arxiv.org/abs/2203.05469)
 
 <img src="https://user-images.githubusercontent.com/66883050/216807772-a03530f3-7e0f-4549-9659-19cf02586319.png"  width="60%" height="60%"/> 
