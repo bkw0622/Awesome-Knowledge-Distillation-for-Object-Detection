@@ -1,5 +1,9 @@
 # Awesome Knowledge Distillation for Object Detection
 
+### research flow
+![map](https://user-images.githubusercontent.com/66883050/216807767-c81a9939-6fce-4bdc-a68d-d8aad53989ad.PNG)
+
+
 ### [(CVPR2017) Mimicking very efficient network for object detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100259)
 
 <img src="https://user-images.githubusercontent.com/66883050/216758223-a1767b16-e3b4-42ab-ae23-d5ed9800dd96.png"  width="50%" height="50%"/>
@@ -26,11 +30,11 @@
 
 ### [(AAAI2022) Rank Mimicking and Prediction-guided Feature Imitation](https://ojs.aaai.org/index.php/AAAI/article/download/20018/version/18315/19777)
 
-<center class="half">
-    <img src="https://user-images.githubusercontent.com/66883050/216758291-974c72ff-184f-455e-bfb4-7ac5038b1782.png"  width="30%" height="30%"/>
-    <img src="https://user-images.githubusercontent.com/66883050/216758296-a4f160bc-3cda-45c3-afbc-ac7a75666ada.png"  width="60%" height="60%"/>
-center>
-    
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/66883050/216758291-974c72ff-184f-455e-bfb4-7ac5038b1782.png"  width="30%" height="30%"/></td><td><img src="https://user-images.githubusercontent.com/66883050/216758296-a4f160bc-3cda-45c3-afbc-ac7a75666ada.png"  width="60%" height="60%"/></td>
+  <tr>
+</table>
 ### [(ECCV2022) Prediction-Guided Distillation](https://arxiv.org/abs/2203.05469)
 
 <img src="https://user-images.githubusercontent.com/66883050/216807772-a03530f3-7e0f-4549-9659-19cf02586319.png"  width="60%" height="60%"/> 
@@ -40,10 +44,6 @@ center>
 
 
 <img src="https://user-images.githubusercontent.com/66883050/216807831-17fbf398-9fd1-4f18-81d6-5ce58693284f.png"  width="60%" height="60%"/> 
-
-
-### research flow
-![map](https://user-images.githubusercontent.com/66883050/216807767-c81a9939-6fce-4bdc-a68d-d8aad53989ad.PNG)
 
 
 # References
